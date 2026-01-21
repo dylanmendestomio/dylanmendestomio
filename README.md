@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor(a) com foco em **resolver problemas reais através da tecnologia**.  
+Sou desenvolvedor com foco em **resolver problemas reais através da tecnologia**.  
 Tenho experiência em desenvolvimento de aplicações utilizando **boas práticas**, código limpo e arquitetura organizada.
 
 Atualmente estou em busca de **oportunidades para atuar como Desenvolvedor(a) Júnior / Pleno**, onde eu possa crescer tecnicamente e contribuir com o time.
